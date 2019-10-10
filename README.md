@@ -14,9 +14,7 @@ npm install
 
 [Josla API](https://github.com/charlesinto/josla-api)
 
-```bash
-pip install foobar
-```
+
 
 ## Usage
 
